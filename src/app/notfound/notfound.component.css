@@ -1,0 +1,18 @@
+
+.container .text {
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    padding-top: 10px;
+    font-weight: bold;
+    font-size: larger;
+
+    color: white;
+    width: 90%;
+}

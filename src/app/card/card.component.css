@@ -1,0 +1,96 @@
+/* styles.css */
+.FlexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    width:auto;
+    background-color: #ffffff;
+    height: auto;
+    justify-content: center;
+   
+    flex-direction: row;
+}
+
+.FlexContainer div {
+    width: 226px;
+    height: 380px;
+    margin: 9px;
+    background-color: rgb(143, 104, 14);
+    border-color: black;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    justify-content:  center;
+    border-radius: 1.3em;
+    text-align: center;
+   
+}
+
+img{
+    width: 100%;
+    height: 80%;
+    background-size: cover;
+    border-radius: 1.3em;
+    
+    
+}
+
+button{
+    color:white;
+    padding-right: 50px;
+    padding-left: 50px;
+    background-color: transparent;
+    border-color: white;
+    margin-top: -25px;
+    
+    
+    
+    
+}
+
+p{
+    color:white;
+}
+
+
+.InputContainer {
+    width: 280px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom,rgb(227, 213, 255),rgb(255, 231, 231));
+    border-radius: 30px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.075);
+    float: right;
+    margin-right: 7%;
+  }
+  
+  .input {
+    width: 260px;
+    height: 40px;
+    border: none;
+    outline: none;
+    caret-color: rgb(255, 81, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    padding-left: 15px;
+    letter-spacing: 0.8px;
+    color: rgb(19, 19, 19);
+    font-size: 13.4px;
+
+  }
+
+  pagination-controls{
+    color:rgb(143, 104, 14);
+    
+    
+  }
+
+
+
+  

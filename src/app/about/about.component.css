@@ -1,0 +1,31 @@
+.container{
+    margin-top: 10%;
+    margin-bottom: 0%;
+
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 7%;
+
+    border-style: dashed;
+    border-color: rgb(90, 75, 6);
+    border-radius: 1.3em;
+
+    text-align: center;
+}
+
+
+h1{
+    color:rgb(90, 75, 6);
+   
+}
+
+
+p{
+    font-weight: bold;
+    font-size: x-large;
+    text-align: justify;
+    margin: 50px;
+   
+
+}
