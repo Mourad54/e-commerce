@@ -1,3 +1,10 @@
+
+![Capture d’écran 2023-10-04 10554254](https://github.com/Mourad54/e-commerce/assets/124211043/bdac970b-a04f-4ada-8880-10aea538c873)
+![Capture21](https://github.com/Mourad54/e-commerce/assets/124211043/727afef7-a2f9-42cd-874f-024639e2818f)
+![Capture d’écran 2023-10-04 10561456](https://github.com/Mourad54/e-commerce/assets/124211043/9ecbf6b8-9c34-481d-81cc-6ef5f975571f)
+![Capture d’écran 2023-10-04 1056564654](https://github.com/Mourad54/e-commerce/assets/124211043/519c8dde-9003-4fff-99f2-492628842147)
+
+
 # Commerce
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
